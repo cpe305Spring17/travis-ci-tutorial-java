@@ -1,7 +1,8 @@
 language: java
 jdk:
  - oraclejdk8
- addons:
+ 
+addons:
   sonarqube:
     organization: "305"
 script:
